@@ -1,5 +1,4 @@
 class GuessingGame {
-    class GuessingGame {
     constructor() {
         this.min = 0;
         this.max = 0;
@@ -26,5 +25,3 @@ class GuessingGame {
 }
 
 module.exports = GuessingGame;
-
-
